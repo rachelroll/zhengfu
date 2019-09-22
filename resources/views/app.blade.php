@@ -9,10 +9,9 @@
         <meta name="author" content="Connor Leech">
 
 
-        <title>Employbl SPA</title>
+        <title>XXX-教务系统</title>
 
 
-        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
         <link rel="stylesheet" href="/css/app.css">
     </head>
@@ -21,7 +20,7 @@
         <div id="app" class="leading-normal tracking-normal text-white gradient">
             <nav-bar-component></nav-bar-component>
 
-            <router-view></router-view>
+{{--            <router-view></router-view>--}}
         </div>
 
         <script src="/js/app.js"></script>
